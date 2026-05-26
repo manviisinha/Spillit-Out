@@ -103,4 +103,4 @@ To keep the bot running 24/7 without keeping your computer on, we recommend depl
 
 *Spill your heart out, stay kind, and have fun! 🌸✨*
 
-**Created by @cocomelonsk** 👑
+**Created by [manviisinha](https://github.com/manviisinha)** 👑
