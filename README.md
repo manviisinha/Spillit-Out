@@ -1,6 +1,6 @@
 # 🌸 Spillit Out — Anonymous Confession Bot
 
-https://github.com/manviisinha/Spillit-Out/raw/main/assets/demo.mp4
+https://github.com/user-attachments/assets/d23e352e-525d-46d2-b041-5ead879270e3
 
 A Gen-Z styled, feature-rich Telegram Bot for anonymous confessions. Spill your feelings without revealing your identity. Built with `python-telegram-bot` and SQLite.
 
