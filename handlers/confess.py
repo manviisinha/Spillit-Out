@@ -23,7 +23,7 @@ async def confess_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("💀 bestie u got banned\nnot ur day fr fr 😭")
         return ConversationHandler.END
 
-    if not db.check_rate_limit(sender.id, "confess", max_count=10, window_minutes=60):
+    if not db.check_rate_limit(sender.id, "confess", max_count=100, window_minutes=60):
         await update.message.reply_text(
             "⏳ okay okay slow down bestie 😭\n"
             "ur sending TOO many confessions omg\n"
